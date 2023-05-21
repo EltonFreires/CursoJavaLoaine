@@ -1,2 +1,2 @@
 # CursoJavaLoaine
-Curso java básico e intermediário
+Curso java básico e intermediário.
